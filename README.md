@@ -1,4 +1,7 @@
-# Algorithms Used
+## Program outcome
+<img width="754" height="597" alt="image" src="https://github.com/user-attachments/assets/a2168bd4-6b71-457f-bdd1-3bef638d4728" />
+
+## Algorithms Used
 
 #### Suffix Array Construction
 
